@@ -26,6 +26,7 @@ In data structures, there are several <b> types of trees </b>. Here are some com
 
 ### Features of tree ###
 <br>
+
 * Root : Topmost node or starting node
 
 * Parent & Child : A parent node is a node that gives rise to its child nodes all nodes except root are called child. Nodes in a tree are connected in a parent-child relationship.
@@ -71,9 +72,12 @@ In data structures, there are several <b> types of trees </b>. Here are some com
 
 ### Binary tree traversals ###
 <br>
-Linear data structure have only one way to traverse them, but trees can be traverse in different ways.<br>
-    <b>1.Depth first Search (DFS)</b>
+Linear data structure have only one way to traverse them, but trees can be traverse in different ways.
+
+<br>
+    <b>1.Depth first Search (DFS)</b><br>
     <b>2.Breadth first Search (BFS)</b>
+
 <br>
 
 > Those are differ in the order in which they visit nodes and the data structure they employ.
